@@ -1,2 +1,2 @@
 # Useful_functions
-Useful_functions_for_R
+Just some useful functions I use in R
